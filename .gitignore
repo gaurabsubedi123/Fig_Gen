@@ -1,0 +1,17 @@
+# Generated output — everything here is recreated by running the pipeline.
+# Remove this line if you WANT the figures/PDFs committed to the repo.
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.vscode/
+.idea/
